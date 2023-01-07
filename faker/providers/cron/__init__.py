@@ -1,6 +1,7 @@
-from .. import BaseProvider
 from typing import Dict, Tuple, List, Literal, Set
 from random import randint, choice
+
+from .. import BaseProvider
 
 
 class Provider(BaseProvider):
